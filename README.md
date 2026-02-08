@@ -150,8 +150,6 @@ This model is trained on data from a **single small-scale facility** in India wi
 **Questions or feedback?**  
 Email: pathmanaban13@gmail.com
 
-**GitHub Repository:** [Link to your repo]
-
 ## 🙏 Acknowledgments
 
 - **Dataset:** UCI Machine Learning Repository / Kaggle
